@@ -51,13 +51,13 @@
 		16980FFF28EF0CDC005B9399 /* PinchApp */ = {
 			isa = PBXGroup;
 			children = (
+				1698100028EF0CDC005B9399 /* PinchAppApp.swift */,
+				1698100428EF0CDD005B9399 /* Assets.xcassets */,
 				1698101128EF10C1005B9399 /* Data */,
 				1698101028EF10B0005B9399 /* Model */,
-				1698100F28EF10A0005B9399 /* View */,
-				1698100028EF0CDC005B9399 /* PinchAppApp.swift */,
-				1698100E28EF108F005B9399 /* Screen */,
-				1698100428EF0CDD005B9399 /* Assets.xcassets */,
 				1698100628EF0CDD005B9399 /* Preview Content */,
+				1698100E28EF108F005B9399 /* Screen */,
+				1698100F28EF10A0005B9399 /* View */,
 			);
 			path = PinchApp;
 			sourceTree = "<group>";
